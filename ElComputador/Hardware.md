@@ -9,7 +9,7 @@ La colaboración de hardware y software es crucial para el funcionamiento de una
 Al crear un equipo nuevo o reemplazar partes, es importante conocer el hardware específico. Esta guía tiene como objetivo ayudar a entender el funcionamiento interno de la computadora.
 
 ## Placa Base
-La placa base es el componente central que alberga la CPU y coordina el funcionamiento de otros hardware. Al elegir una, es crucial verificar los puertos y compatibilidad con otros componentes.
+La placa base está en el centro de lo que hace que un PC funcione, ya que Alberga la CPU y es un concentrador que el resto del hardware ejecuta. La placa base actúa como un cerebro.
 
 ## CPU (Unidad Central de Procesamiento)
 La CPU procesa la información de programas. La velocidad se mide en GHz. Una CPU de mayor GHz tiende a ser más rápida.
